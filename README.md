@@ -10,7 +10,7 @@ This project was created using Visual Studio Code with the C# OmniSharp extensio
 
 > dotnet run
 
-to initialise the project, and follow the prompts to use the course coordination program.
+to initialise the project, and follow the prompts to use this calculator.
 
 ## Concepts this project uses
 - Console.WriteLine()
